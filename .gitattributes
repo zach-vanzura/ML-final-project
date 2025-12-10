@@ -1,0 +1,2 @@
+ML_dataset_10_categories/*.jpg filter=lfs diff=lfs merge=lfs -text
+ML_dataset_10_categories/*.json filter=lfs diff=lfs merge=lfs -text
